@@ -36,3 +36,36 @@
     color: hsl(228, 12%, 48%);
     font-weight: 400;
 }
+
+.precio{
+    color: hsl(158, 36%, 37%) ;
+    font-size: 50px;
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+
+.costo{
+    display: flex;
+    align-items: center;
+    gap: 3rem; /*Es una medida de lo que mide la fuente*/
+}
+
+.descuento{
+    font-size: 20px;
+    color:hsl(228, 12%, 48%); 
+    text-decoration: line-through;
+}
+
+.btn{
+    background-color: hsl(158, 36%, 37%) ;
+    color: white;
+
+    border-radius: 20px;
+    border: none;
+    padding: 20px ;
+
+    font-size: 30px;
+
+    font-family: 'Montserrat', serif;;
+}
+
