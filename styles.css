@@ -1,0 +1,15 @@
+.all{
+    background-color: hsl(30, 38%, 92%);
+    display: flex;
+    justify-content: center;
+    
+    justify-content: center;
+
+    align-items: center;
+}
+
+.principal{
+    display: grid ;
+    grid-template-columns: 1fr 1fr;
+    width: 1200px;
+}
