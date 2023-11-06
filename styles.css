@@ -13,3 +13,26 @@
     grid-template-columns: 1fr 1fr;
     width: 1200px;
 }
+
+.contright{
+    display: flex;
+    
+    border-radius: 0px 10px 1.0px 0px;
+    background-color: white ;
+    flex-direction: column; 
+    padding: 50px ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.name{
+    font-family: 'Fraunces', serif;
+    font-size: 75px;
+    color: hsl(212, 21%, 14%);
+}
+
+.desc{
+    font-size: 32px;
+    color: hsl(228, 12%, 48%);
+    font-weight: 400;
+}
