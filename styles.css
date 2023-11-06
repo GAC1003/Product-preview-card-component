@@ -69,3 +69,23 @@
     font-family: 'Montserrat', serif;;
 }
 
+.icono{ 
+    width: 20px;
+    height: auto;
+    
+}
+
+.img    {
+
+    height: 100%;
+
+
+}
+
+.img img{
+    height: 100%;
+}
+
+.attribution{
+    flex: flex;
+}
